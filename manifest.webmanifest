@@ -1,0 +1,36 @@
+{
+  "name": "Carmen & Jonas",
+  "short_name": "Carmen&Jonas",
+  "description": "Familien-Dashboard – Menüplan, Einkauf, Todos, Packen, Reinigung",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E3E9EC",
+  "theme_color": "#6F9268",
+  "lang": "de-CH",
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
